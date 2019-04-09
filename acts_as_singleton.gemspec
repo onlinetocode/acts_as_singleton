@@ -10,7 +10,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake"
   s.add_development_dependency "sqlite3-ruby"
 
-  s.has_rdoc = true
   s.extra_rdoc_files = %w(History.rdoc Manifest.txt README.rdoc)
   s.rdoc_options = %w(--main README.rdoc)
 
